@@ -27,7 +27,7 @@ module.exports = {
 
   // API
   randomApi: true, // if you have been set more than one api you should enable this. it will use one of your api randomly
-  shrinkearn: '8e6e1a2793b81906fdded75653755f48fa8c38f7',
+  shrinkearn: '',
   // shrinkearn: process.env.shrinkearn,
   //more coming soon
 }
