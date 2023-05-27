@@ -1,0 +1,23 @@
+{
+  "name": "Discord-Earning-Bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot for earning real money by shorten links. Your user and you both earns money.",
+  "main": "index.js",
+  "scripts": {
+    "author": "echo Made by LimanGit Discord: Liman#5112"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Liman",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "better-sqlite3": "^8.4.0",
+    "discord.js": "^14.11.0",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6",
+    "quick.db": "^9.1.6",
+    "request": "^2.88.2"
+  }
+}
