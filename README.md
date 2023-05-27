@@ -21,3 +21,11 @@ Pay - remove a payment from list by TRX ID.
 # Tutorial
 
 Coming soon.
+
+# Link Shortener API
+
+Only Shrinkearn API is available for now. More coming soon.
+
+# Server Earn
+
+Server earn a Join for Join feature that will be added in future.
